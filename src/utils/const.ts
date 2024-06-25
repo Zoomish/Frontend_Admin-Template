@@ -1,0 +1,6 @@
+// export const BASE_URL = 'http://89.223.65.6:3000/api/v1'
+export const BASE_URL = 'https://novadev-backend.onrender.com'
+export const testIdRest = '1'
+// export const BASE_URL_CDN = 'http://89.223.65.6:3001/cdn'
+export const BASE_URL_CDN = 'https://novadev-backend.onrender.com'
+export const NAME_TELEGRAM_BOT = '@ZoomishBot'
